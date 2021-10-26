@@ -1,0 +1,74 @@
+.put{
+   color: #8845f4;
+}
+#r{
+  color: steelblue;
+}
+body{
+  font-family: sans-serif;
+  color: black;
+  line-height: 26px;
+}
+.half{
+   width: 50%;
+   float: left;
+}
+.img{
+  width: 50%;
+  padding-left: 25%;
+  margin-top: 45px;
+}
+.primary-btn{
+    color: white;
+    background-color: #FF0000;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px 75px;
+    text-decoration: none; 
+}
+h1{
+ font-size: 1.9em 
+}
+.container{
+      padding-left: 5%;
+      display: inline-block;
+}
+.experience{
+        padding: 30px;
+        margin: 30px;
+        background-color: rgb(238, 251, 255);
+        border-radius: 20px;
+}
+.exp-item{
+      padding: 10px;
+      border-left: 1px solid rgb(137, 130, 247,.3)
+}
+#marq{
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: darkblue;
+  color: white;
+}
+.mol{
+  color: white;
+  background-color: black;
+  border-radius:5px;
+  border: 1px solid black;
+  padding: 2px;
+  text-decoration: none;
+}
+.yle{
+  line-height: 20px;
+  background-color: rgb(230,255,245,.9); 
+  border-radius: 10px;
+}
+#lop{
+  text-align: center;
+  background-color: red;
+}
+ol,li{
+  border:1px solid red;
+}
+#o{
+  border:1px solid red;
+}
