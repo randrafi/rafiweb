@@ -62,13 +62,14 @@ h1{
   background-color: rgb(230,255,245,.9); 
   border-radius: 10px;
 }
-#lop{
+#mou{
+  margin: 10px 50px 10px 50px;
+  background-color: green;
+  color: skyblue;
   text-align: center;
-  background-color: red;
+  border-radius: 75px;
 }
-ol,li{
-  border:1px solid red;
+table{
+  width: 100%;
 }
-#o{
-  border:1px solid red;
-}
+
