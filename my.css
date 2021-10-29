@@ -67,9 +67,24 @@ h1{
   background-color: green;
   color: skyblue;
   text-align: center;
-  border-radius: 75px;
+  border-radius: 7px;
 }
 table{
   width: 100%;
 }
-
+table,th,td{
+  border: 1px solid red
+}
+th{
+  background-color: #8845f4;
+  color: white;
+}
+.d{
+  background-color: pink;
+}
+tr:hover{
+  color:green;
+}
+#green{
+  color: green;
+}
